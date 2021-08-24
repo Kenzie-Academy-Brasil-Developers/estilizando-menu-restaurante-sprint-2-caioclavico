@@ -24,7 +24,7 @@ body {
 section {margin-bottom: 50px;}
 
 /* Show each of the section headings of the menu (e.g. "Starters") in small caps, colored #6d4c41. */
-h2 {margin: 0; color: #6d4c41; font-family: small-caps;}
+h2 {margin: 0; color: #6d4c41; font-variant: small-caps;}
 
 /* Make the name of each menu item appear in bold in a 20px size. */
 
